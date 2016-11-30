@@ -1,5 +1,5 @@
 # gallery-react
-##[点击查看demo](http://czhcn.top/gallery-react/)  
+##[点击查看demo](http://czhcn.top/works/gallery-react/)  
 一个基于React ES5的照片墙组件，并使用Webpack打包工具。
 
 ### 特点
